@@ -589,6 +589,26 @@ module.exports = [
     ],
   },
   {
+    name: 'Sergio Baidon',
+    description: 'Full stack Developer, biggest Fútbol fan you will ever meet.',
+    url: 'https://github.com/sbaidón',
+    twitter: '@sbaidon',
+    emoji: '🫶',
+    country: '🇲🇽',
+    computer: 'apple',
+    phone: 'pixel',
+    tags: [
+      'Front End',
+      'Next.js',
+      'AWS',
+      'Typescript',
+      'Javascript',
+      'Kotlin',
+      'React',
+      'Vue'
+    ],
+  },
+  {
     name: 'Simon Rogers',
     description: 'Software Engineer',
     url: 'https://midnite.uk/uses',
